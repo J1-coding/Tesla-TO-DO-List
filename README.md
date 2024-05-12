@@ -2,11 +2,13 @@
 Tesla TO-DO List is a task management solution designed to enhance productivity directly from the Tesla Infotainment system. This application brings the simplicity of a TODO list into your vehicle, making it easier than ever to keep track of your daily tasks while on the move.
 
 # TeslaTODOList: Streamlined Task Management for Your Drive
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://drive.google.com/uc?export=view&id=1-qvX5sgqVHgOTvnw5n9ALN0hOJimTywd" alt="Tesla Infotainment">
-  <img src="https://drive.google.com/uc?export=view&id=1tZAoCs--5HrF_ZGXRSsyHHwOnRElNKIS" alt="Second Logo">
-  <img src="https://drive.google.com/uc?export=view&id=1UniQPPduOcKh8h8CVTd4Yq3qtGhYwfAD" alt="Third Logo">
-</div>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1-qvX5sgqVHgOTvnw5n9ALN0hOJimTywd" alt="Tesla Infotainment" width="100"/>
+  <img src="https://drive.google.com/uc?export=view&id=1tZAoCs--5HrF_ZGXRSsyHHwOnRElNKIS" alt="Second Logo" width="100"/>
+  <img src="https://drive.google.com/uc?export=view&id=1UniQPPduOcKh8h8CVTd4Yq3qtGhYwfAD" alt="Third Logo" width="100"/>
+</p>
+
+
 
 
 **TeslaTODOList** is a tailored task management solution designed to enhance productivity directly from the Tesla Infotainment system. This application brings the simplicity of a TODO list into your vehicle, making it easier than ever to keep track of your daily tasks while on the move.

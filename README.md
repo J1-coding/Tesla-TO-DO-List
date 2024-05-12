@@ -4,13 +4,13 @@ Tesla TO-DO List is a task management solution designed to enhance productivity 
 # TeslaTODOList: Streamlined Task Management for Your Drive
 <div style="display: flex; justify-content: space-around; align-items: center; width: 20%; margin: 10; padding: 10;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
-    <img src="https://drive.google.com/uc?export=view&id=1-qvX5sgqVHgOTvnw5n9ALN0hOJimTywd" alt="Tesla Infotainment" style="max-width: 20%; height: auto;">
+    <img src="https://drive.google.com/uc?export=view&id=1-qvX5sgqVHgOTvnw5n9ALN0hOJimTywd" alt="Tesla Infotainment">
   </div>
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
-    <img src="https://drive.google.com/uc?export=view&id=1tZAoCs--5HrF_ZGXRSsyHHwOnRElNKIS" alt="Second Logo" style="max-width:20%; height: auto;">
+    <img src="https://drive.google.com/uc?export=view&id=1tZAoCs--5HrF_ZGXRSsyHHwOnRElNKIS" alt="Second Logo">
   </div>
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
-    <img src="https://drive.google.com/uc?export=view&id=1UniQPPduOcKh8h8CVTd4Yq3qtGhYwfAD" alt="Third Logo" style="max-width:20%; height: auto;">
+    <img src="https://drive.google.com/uc?export=view&id=1UniQPPduOcKh8h8CVTd4Yq3qtGhYwfAD" alt="Third Logo">
   </div>
 </div>
 

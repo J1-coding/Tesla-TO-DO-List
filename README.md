@@ -24,7 +24,7 @@ TeslaTODOList is more than just a task manager; it's a way to integrate your dai
 <p>
 <h2>
 <img src="https://drive.google.com/uc?export=view&id=1O6ByCGV6YAN1mQWMvggZdzXg16qkJctI" alt="YouTube Logo" width="25"/>
-Click below image and watch our demo 
+Click below image and watch our demo!🎉
 </h2>
 </p>
 

@@ -3,9 +3,9 @@ Tesla TO-DO List is a task management solution designed to enhance productivity 
 
 # TeslaTODOList: Streamlined Task Management for Your Drive
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1-qvX5sgqVHgOTvnw5n9ALN0hOJimTywd" alt="Tesla Infotainment" width="100"/>
-  <img src="https://drive.google.com/uc?export=view&id=1tZAoCs--5HrF_ZGXRSsyHHwOnRElNKIS" alt="Second Logo" width="100"/>
-  <img src="https://drive.google.com/uc?export=view&id=1UniQPPduOcKh8h8CVTd4Yq3qtGhYwfAD" alt="Third Logo" width="100"/>
+  <img src="https://drive.google.com/uc?export=view&id=1-qvX5sgqVHgOTvnw5n9ALN0hOJimTywd" alt="Tesla Infotainment" width="400"/>
+  <img src="https://drive.google.com/uc?export=view&id=1tZAoCs--5HrF_ZGXRSsyHHwOnRElNKIS" alt="Second Logo" width="300"/>
+  <img src="https://drive.google.com/uc?export=view&id=1UniQPPduOcKh8h8CVTd4Yq3qtGhYwfAD" alt="Third Logo" width="250"/>
 </p>
 
 

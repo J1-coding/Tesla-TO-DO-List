@@ -20,7 +20,7 @@ TeslaTODOList is more than just a task manager; it's a way to integrate your dai
 
 ## Demo
 Watch our demo video to see **TeslaTODOList**:
-[![TeslaTODOList - Demo](http://img.youtube.com/vi/1lpmXSvHT2g/0.jpg)]]
+![TeslaTODOList - Demo](http://img.youtube.com/vi/1lpmXSvHT2g/0.jpg)
 
 ## Installation
 

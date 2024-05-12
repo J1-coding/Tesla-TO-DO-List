@@ -18,8 +18,15 @@ Tesla TO-DO List is a task management solution designed to enhance productivity 
 
 TeslaTODOList is more than just a task manager; it's a way to integrate your daily life into your driving experience. Whether you’re commuting, running errands, or on a road trip, TeslaTODOList ensures that your important tasks are always just a touch away. Embrace the convenience of having your to-dos integrated with your Tesla’s dashboard and make every drive productive.
 
-## Click and watch our Demo video:
-![TeslaTODOList - Demo](http://img.youtube.com/vi/1lpmXSvHT2g/0.jpg)
+<p align="center">
+  Click and watch our demo video: <a href="http://www.youtube.com/watch?v=1lpmXSvHT2g"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_(2017).svg" alt="Watch on YouTube" width="30" style="vertical-align:middle"/></a>
+</p>
+<p align="center">
+  <a href="http://www.youtube.com/watch?v=1lpmXSvHT2g">
+    <img src="http://img.youtube.com/vi/1lpmXSvHT2g/0.jpg" alt="TeslaTODOList - Demo" width="300"/>
+  </a>
+</p>
+
 
 ## Future Updates
 - **Integration with mobile TO-DO List**
